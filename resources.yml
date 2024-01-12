@@ -1,0 +1,6 @@
+gpt_prompts:
+  generate_summary: 'This is a multi-line string
+
+    that will be used as an element
+
+    under the ''generate_summary'' key.'

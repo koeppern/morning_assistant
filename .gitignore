@@ -4,3 +4,4 @@ credentials.json
 .env_wdir
 token.json
 playground/google_calendar/token.json
+.env_morning_assistant
