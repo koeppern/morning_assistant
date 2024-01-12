@@ -1,0 +1,14 @@
+prompt_data: |
+  # Today's work calendar
+  calendar_work
+
+  # Today's personal calendar
+  calendar_personal
+
+  # Relevant notes creaded by user
+  notes
+prompt_summary: |
+  this is
+  my text
+system_message: |
+  You're an assistant that wakes up the user named name_user and gives a summary of the day. You are truthful and make nothing up. Formulate your answer in language.

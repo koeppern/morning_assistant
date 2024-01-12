@@ -1,0 +1,6 @@
+morning_assistant/
+
+credentials.json
+.env_wdir
+token.json
+playground/google_calendar/token.json
